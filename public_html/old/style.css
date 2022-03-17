@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+.largura {
+	max-width:100%;	
+	display: block;
+	height:auto;
+	margin-bottom: -10px;
+	box-sizing: border-box;
+	float: none;
+	position: static;
+	z-index: auto;
+
+	}
+
+.contato p {
+	font-family: "Myriad Pro";
+	font-size: 20px;
+		
+	}
+
+.contato h1 {
+	font-family: 'Arial';
+	font-size: 25px;
+	font: italic;
+	color: gray;
+		
+	}

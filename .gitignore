@@ -1,0 +1,11 @@
+rails_apps/
+wsgi_apps/
+includes/
+.gems
+.bash_profile
+.gemrc
+logs/
+.viminfo
+tmp/
+.bash_history
+
