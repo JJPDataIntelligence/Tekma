@@ -137,7 +137,7 @@ if ($idioma == "br") {
 	$txt_conceito1 = "A <b>TEKMA</b> nasce no modelo de negócios de cooperativa de trabalho para a prestação de serviços de engenharia e correlatos, oferecendo especialistas nas principais áreas de conhecimento.";
 	$txt_conceito2 = "A identidade de propósitos e interesses assegura que os desenvolvimentos de projetos, protótipos, avaliações de conjuntos de componentes e veículos sejam realizados com a máxima eficácia técnica e com resultados de altíssima qualidade.";
 	$txt_conceito3 = "Além destas competências, a <b>TEKMA</b> oferece gestão de projetos nas áreas de pós-vendas, logística, qualidade e processos.";
-	$txt_conceito4 = "Conheça abaixo alguns de nossos sócios fundadores.";
+	$txt_conceito4 = "A ideia da criação de uma empresa prestadora de serviços especializados, num formato diferente dos usuais escritórios de engenharia, surgiu através de um grupo de engenheiros, advindos da indústria automotiva, que identificou no mercado esta necessidade. Foi assim que em maio de 2019 foi oficialmente constituída a <b>TEKMA</b>, através dos seus sócios-fundadores.";
 
 	$txt_missao = "Nossa missão é prover soluções em serviços da mobilidade de forma avançada, precisa e efetiva agregando valores pautados em competitividade, segurança e sustentabilidade.";
 	$txt_visao = "A <b>TEKMA</b> aspira ser reconhecida com distinção como uma prestadora de serviços de engenharia ligados à mobilidade.";
@@ -208,7 +208,7 @@ if ($idioma == "en") {
 	$txt_conceito1 = "<b>TEKMA</b> is born in the business model of cooperative work for the provision of engineering and related services, offering specialists in the main areas of knowledge.";
 	$txt_conceito2 = "The identity of purposes and interests ensures that the development of projects, prototypes, evaluations of sets of components and vehicles are carried out with maximum technical efficacy and with results of very high quality.";
 	$txt_conceito3 = "In addition to these competencies, TEKMA offers project management in the areas of after sales, logistics, quality and processes.";
-	$txt_conceito4 = "Meet our founding partners.";
+	$txt_conceito4 = "The idea of creating a company providing specialized services, in a different format from the usual engineering offices, came from a group of engineers, coming from the automotive industry, who identified this need in the market. This is how in May 2019 <b>TEKMA</b> was officially established, through its founding partners.";
 
 	$txt_missao = "Our mission is to provide solutions in mobility services in an advanced, accurate and effective way by adding values based on competitiveness, security and sustainability";
 	$txt_visao = "<b>TEKMA</b> aspires to be recognized with distinction as a mobility-related engineering service provider.";
@@ -363,7 +363,7 @@ echo "<!-- Var 1=$var1 / Var2=$var2 / Var3=$var3 -->";
 			<div class='col-sm-4'><?php echo "<p class='conceito'>$txt_conceito2</p>"; ?></div>
 			<div class='col-sm-4'><?php echo "<p class='conceito'>$txt_conceito3</p>"; ?></div>
 
-			<!-- <div class='col-sm-12'><?php echo "<p class='conceito'>$txt_conceito4</p>"; ?></div> -->
+			<div class='col-sm-12 mtop10'><?php echo "<p class='conceito'>$txt_conceito4</p>"; ?></div>
 
 			<div class='col-sm-12 mp0 mtop50'>
 				<img src="img_site/mosaico_equipe.jpg" class='img-responsive'><br>
